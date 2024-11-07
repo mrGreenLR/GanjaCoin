@@ -20,7 +20,7 @@ body {
 
 #coinName {
     font-size: 1.6rem;
-    color: red;
+    color: brown;
     margin-bottom: 23px;
 }
 
@@ -47,7 +47,7 @@ body {
         font-size: 5rem;
     }
     #coinName {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     #tapCircle {
         width: 180px;
