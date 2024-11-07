@@ -13,7 +13,7 @@ body {
 #gameTitle {
     font-size: 3rem;
     color: #0f9d58;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Arial', cursive;
     text-align: center;
     margin-bottom: 9px;
 }
@@ -27,7 +27,7 @@ body {
 #tapCircle {
     width: 150px;
     height: 150px;
-    background-image: url('ganjacoin.jpg'); /* Зображення монети */
+    background-image: url('images/ganjacoin.jpg'); /* Зображення монети */
     background-size: cover;
     background-position: center;
     border-radius: 50%;
