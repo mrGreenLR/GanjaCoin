@@ -27,7 +27,7 @@ body {
 #tapCircle {
     width: 150px;
     height: 150px;
-    background-image: url('https://mrgreenlr.github.io/GanjaCoin/images/GanjaCoin.jpg'); /* Зображення монети */
+    background-image: url('images/GanjaCoin.jpg'); /* Зображення монети */
     background-size: cover;
     background-position: center;
     border-radius: 50%;
