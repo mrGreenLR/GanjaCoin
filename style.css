@@ -19,7 +19,7 @@ body {
 }
 
 #coinName {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     color: brown;
     margin-bottom: 23px;
 }
@@ -42,12 +42,12 @@ body {
 }
 
 /* Адаптивні стилі для мобільних пристроїв */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     #gameTitle {
-        font-size: 5rem;
+        font-size: 4rem;
     }
     #coinName {
-        font-size: 1.7rem;
+        font-size: 1.3rem;
     }
     #tapCircle {
         width: 180px;
