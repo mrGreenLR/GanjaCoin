@@ -42,12 +42,12 @@ body {
 }
 
 /* Адаптивні стилі для мобільних пристроїв */
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     #gameTitle {
         font-size: 5rem;
     }
     #coinName {
-        font-size: 2rem;
+        font-size: 1.7rem;
     }
     #tapCircle {
         width: 180px;
