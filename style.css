@@ -6,21 +6,21 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    font-family: Alfa Slab One, cursive;
+    font-family: Great Vibes, cursive;
     background-color: #f0f0f5;
 }
 
 #gameTitle {
     font-size: 4rem;
     color: green;
-    font-family: 'Great Vibes', cursive
+    font-family: 'Alfa Slab One', cursive
     text-align: center;
     margin-bottom: 39px;
 }
 
 #coinName {
     font-size: 1.6rem;
-    color: red;
+    color: brown;
     margin-bottom: 23px;
 }
 
